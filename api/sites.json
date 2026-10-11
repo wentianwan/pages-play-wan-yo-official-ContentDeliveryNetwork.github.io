@@ -247,9 +247,15 @@
             },
             {
                 "name": "DeepSeek",
-                "icon": "https://official.wentianplay.com/index/API/assets/siteIcons/DeepSeek.ico",
+                "icon": "https://www.deepseek.com/favicon.ico",
                 "url": "https://www.deepseek.com/",
                 "describe": "DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism. 🎉 DeepSeek-R1 is now live."
+             },
+            {
+                "name": "元宝",
+                "icon": "https://static.yuanbao.tencent.com/m/yuanbao-web/favicon_new@32.png",
+                "url": "https://yuanbao.tencent.com/",
+                "describe": "元宝是腾讯推出的全能 AI 助手，已接入最新的混元 Hy4 preview 模型，Agent 能力全面升级，综合多方信源深度推理，复 …"
              }
         ]
     },
