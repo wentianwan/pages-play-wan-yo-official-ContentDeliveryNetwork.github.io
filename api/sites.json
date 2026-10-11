@@ -1,6 +1,6 @@
 {
     "官方导航": {
-        "icon": "https://bookcover.yuewen.com/qdbimg/349573/1041003789/600.webp",
+      "icon": "https://wentianwan.com/favicon.ico",
       "data": [
         {
            "name": "框架设定",
@@ -13,6 +13,12 @@
             "icon": "https://bookcover.yuewen.com/qdbimg/349573/1041003789/600.webp",
             "url": "https://www.qidian.com/book/1041003789",
             "describe": "不忘初心，逐梦未来。框架设定：BINTIAN.NET"
+        },
+        {
+           "name": "多合一收款码",
+           "icon": "https://wentianwan.com/favicon.ico",
+            "url": "https://wentianwan.com",
+            "describe": "苏天彬｜多合一赞助收款码"
         },
         {
            "name": "权威域名",
