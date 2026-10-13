@@ -38,7 +38,7 @@
             },
             "youtube": {
                 "name": "youtube",
-                "mainColor": "#E1002D",
+                "mainColor": "#FFFFFF",
                 "textColor": "white",
                 "icon": "https://wentianwan.com/cdn/youtube-logo.svg",
                 "api": "https://www.youtube.com/results?search_query=%keyword%",
