@@ -45,7 +45,7 @@
                 "advice_func":"zhihu_advice"
             },
             "youtube": {
-                "name": "youtube",
+                "name": "YouTube",
                 "mainColor": "#434951",
                 "textColor": "white",
                 "icon": "https://wentianwan.com/cdn/youtube-logo.svg",
