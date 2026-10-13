@@ -36,9 +36,17 @@
                 "api": "https://search.bilibili.com/all?keyword=%keyword%",
                 "advice_func":"bilibili_advice"
             },
+            "zhihu": {
+                "name": "Zhihu",
+                "mainColor": "#0066FF",
+                "textColor": "white",
+                "icon": "https://wentianwan.com/cdn/zhihu-logo.svg",
+                "api": "https://www.zhihu.com/search?type=content&q=%keyword%",
+                "advice_func":"zhihu_advice"
+            },
             "youtube": {
                 "name": "youtube",
-                "mainColor": "#FFFFFF",
+                "mainColor": "#434951",
                 "textColor": "white",
                 "icon": "https://wentianwan.com/cdn/youtube-logo.svg",
                 "api": "https://www.youtube.com/results?search_query=%keyword%",
@@ -51,14 +59,6 @@
                 "icon": "https://wentianwan.com/cdn/github-logo.svg",
                 "api": "https://github.com/search?q=%keyword%",
                 "advice_func":"github_advice"
-            },
-            "zhihu": {
-                "name": "Zhihu",
-                "mainColor": "#0066FF",
-                "textColor": "white",
-                "icon": "https://wentianwan.com/cdn/zhihu-logo.svg",
-                "api": "https://www.zhihu.com/search?type=content&q=%keyword%",
-                "advice_func":"zhihu_advice"
             }
         }
     }
