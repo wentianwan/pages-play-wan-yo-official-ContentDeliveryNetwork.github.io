@@ -1120,7 +1120,7 @@
                                         children: "赤潮：零纪元"
                                     }), (0, s.jsx)("p", {
                                         className: "mt-5 max-w-[420px] text-sm leading-6 text-white/78 lg:text-base",
-                                        children: "与正太少年们展开,一场奇幻之旅！"
+                                        children: "与正太少年们展开一场奇幻之旅！"
                                     }), null !== i ? (0, s.jsxs)("p", {
                                         className: "mt-4 font-bender text-sm uppercase tracking-[0.18em] text-golden lg:text-base",
                                         children: [i.toLocaleString("en-US"), " Reservations"]
